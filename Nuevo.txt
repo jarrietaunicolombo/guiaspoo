@@ -1,0 +1,4 @@
+<b><sub>ESTE ES UN NUEVO CAMBIO</sub></b>
+
+- Este trabajo es para probar lo aprendido con git y Github.
+- Prepararse para el parcial y practicar intensamente.
